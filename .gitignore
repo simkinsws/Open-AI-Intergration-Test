@@ -70,5 +70,5 @@ Identity/
 *~  
 
 ## Ignore build results
-/BackendServer/bin/
-/BackendServer/obj
+/KevinApp/bin/
+/KevinApp/obj
